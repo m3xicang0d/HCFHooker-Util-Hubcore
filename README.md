@@ -9,7 +9,7 @@ The useful one was made with "SOCKET", a solution that we found very convenient 
 You can add support with any HCF-Core, you only need to add the API or in any other case the .JAR of it.
 
 ## Implementation in Tablist
-The API where it is implemented is https://github.com/NoSequel/TabAPI
+The TabAPI where it is implemented is: https://github.com/NoSequel/TabAPI
 ```java
     @Override
     public TabElement getElement(Player player) {
