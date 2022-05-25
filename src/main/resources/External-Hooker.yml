@@ -1,0 +1,9 @@
+API-PORT: 4024 #This port can be the same in all modes
+SERVER-NAME: HCF
+
+DEBUG: false #Ignore this
+
+HUBS:
+  HUB1:
+    HOST: "localhost"
+    PORT: 4025

@@ -1,0 +1,10 @@
+hcf-hook:
+  hub-port: 4025
+  debug-mode: false
+  servers:
+    Infernal:
+      host: localhost
+      port: 2042
+    Teams:
+      host: localhost
+      port: 2042

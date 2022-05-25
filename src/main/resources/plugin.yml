@@ -1,0 +1,3 @@
+name: HCFHooker
+version: '${project.version}'
+main: dev.jesusmx.hooker.HCFHooker
