@@ -3,9 +3,9 @@ This utility was created for "TacoHub" buyers to have an exact replica of ViperM
 
 The useful one was made with "SOCKET", a solution that we found very convenient for those people who do not usually use MongoDB or Redis.
 
-**The code is a bit unstable, but it can help you!
+**The code is a bit unstable, but it can help you!**
 
-**This code was done in 8 hours (overnight) so if you find a better way to optimize it, DO IT and don't bother
+**This code was done in 8 hours (overnight) so if you find a better way to optimize it, DO IT and don't bother**
 
 # Support
 You can add support with any HCF-Core, you only need to add the API or in any other case the .JAR of it.
