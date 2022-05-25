@@ -1,6 +1,8 @@
 # HCFHooker
-This utility was created for "TacoHub" buyers to have an exact replica of vipermc
+This utility was created for "TacoHub" buyers to have an exact replica of ViperMC
+
 The useful one was made with "SOCKET", a solution that we found very convenient for those people who do not usually use MongoDB or Redis.
+
 **The code is a bit unstable, but it can help you!**
 
 # Support
@@ -69,6 +71,7 @@ You can add support with any HCF-Core, you only need to add the API or in any ot
 
 # Credits
 JesusMX#2122
+
 FxMxGRAGFX#0025
 
 # Selling & Using
