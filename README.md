@@ -82,3 +82,8 @@ FxMxGRAGFX#0025
 
 # Selling & Using
 You're free to use this product for anything, including selling and running on your own server. However, if you're going to sell a plugin using this, please leave credits and/or a link to the repository.
+
+# Prohibited Users
+These users do not have permission to resell, even if they leave credits... for NO reason they have the right to resell this tool.
+
+- Hely Development
