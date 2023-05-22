@@ -87,3 +87,4 @@ You're free to use this product for anything, including selling and running on y
 These users do not have permission to resell, even if they leave credits... for NO reason they have the right to resell this tool.
 
 - Hely Development
+- Rage Development 
